@@ -1,0 +1,22 @@
+{
+  "name": "ng2-passwordmeter",
+  "description": "Password strength calculator component for angular2 and material2",
+  "main": "index.html",
+  "keywords": [
+    "angular2",
+    "password-strength"
+  ],
+  "authors": [
+    "Umair Hamid"
+  ],
+  "license": "MIT",
+  "homepage": "http://umairhamid.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
